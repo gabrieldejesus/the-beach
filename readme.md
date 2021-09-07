@@ -7,16 +7,16 @@
 </p>
 
 <p align="left">
-   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/the-beach?color=007DE7&label=STARS&logo=007DE7&logoColor=007DE7&style=for-the-badge&labelColor=222222" />
+   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/the-beach?color=FFCC33&label=STARS&logo=FFCC33&logoColor=FFCC33&style=for-the-badge&labelColor=222222" />
 
-   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/the-beach?color=007DE7&label=FORKS&logo=007DE7&logoColor=007DE7&style=for-the-badge&labelColor=222222" />
+   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/the-beach?color=FFCC33&label=FORKS&logo=FFCC33&logoColor=FFCC33&style=for-the-badge&labelColor=222222" />
 
-   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/the-beach?color=007DE7&label=ISSUES&logo=007DE7&logoColor=007DE7&style=for-the-badge&labelColor=222222" />
+   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/the-beach?color=FFCC33&label=ISSUES&logo=FFCC33&logoColor=FFCC33&style=for-the-badge&labelColor=222222" />
 
-   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/the-beach?color=007DE7&label=LICENSE&logo=007DE7&logoColor=007DE7&style=for-the-badge&labelColor=222222" />
+   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/the-beach?color=FFCC33&label=LICENSE&logo=FFCC33&logoColor=FFCC33&style=for-the-badge&labelColor=222222" />
 
   <a href="https://github.com/gabrieldejesus">
-    <img alt="Follow gabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=gabrieldejesus&style=for-the-badge&color=007DE7&labelColor=222222" />
+    <img alt="Follow gabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=gabrieldejesus&style=for-the-badge&color=FFCC33&labelColor=222222" />
   </a>
 </p>
 
